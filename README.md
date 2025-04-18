@@ -166,16 +166,16 @@ The administrator or librarian manages the entire system and has full access to 
 ## Gallery 
 
 ### Login Page
-![Login Page](./screenshots/login.png)
+![Login Page](src/screenshots/login.png)
 
 ### Register Page
-![Register Page](./screenshots/register.png)
+![Register Page](src/screenshots/register.png)
 
 ### Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](src/screenshots/home.png)
 
 ### My Borrowed Books Page
-![My Borrowed Books Page](./screenshots/my_borrowed_books.png)
+![My Borrowed Books Page](src/screenshots/my_borrowed_books.png)
 
 
 ## Author
