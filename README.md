@@ -28,7 +28,7 @@ This Library Management System provides a comprehensive solution for libraries t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/11saishiva/Library_Management_System.git
    cd library-management-system
    ```
 
